@@ -1,2 +1,3 @@
 # MP3_OnlineMusicPlayerSearch
 基于QT完成的MP3音乐播放器搜索引擎
+因为API原因，歌词显示没有完成
