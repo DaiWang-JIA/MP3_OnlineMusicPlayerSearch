@@ -68,6 +68,6 @@
 
 
 ⚠️ 注意事项
-API 说明：本项目中使用的音乐搜索与播放API仅供学习与研究网络编程使用，接口可能随时变动，不保证长期有效。
-HTTPS 支持：代码中已包含将 HTTP 链接转换为 HTTPS 的逻辑，以适应现代网络安全策略。
-SSL 库：如果是 Windows 环境下运行，可能需要将 OpenSSL 的动态库 (libcrypto-1_1.dll, libssl-1_1.dll) 复制到可执行文件同级目录下，以支持 HTTPS 请求。
+API 说明：本项目中使用的音乐搜索与播放API仅供学习与研究网络编程使用，接口可能随时变动，不保证长期有效。                          
+HTTPS 支持：代码中已包含将 HTTP 链接转换为 HTTPS 的逻辑，以适应现代网络安全策略。                               
+SSL 库：如果是 Windows 环境下运行，可能需要将 OpenSSL 的动态库 (libcrypto-1_1.dll, libssl-1_1.dll) 复制到可执行文件同级目录下，以支持 HTTPS 请求。                                          
